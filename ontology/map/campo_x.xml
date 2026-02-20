@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="IrrigationProject_CampoX_V2">
+<bounds minlat="40.6600" minlon="-73.9100" maxlat="40.6800" maxlon="-73.8800"/>
+<node id="501" lat="40.6685" lon="-73.9000">
+  <tag k="name" v="Pozzo_Pescaggio_NY_Main"/></node>
+  <node id="600" lat="40.669000" lon="-73.899000">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H0"/></node>
+  <node id="601" lat="40.668000" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_0_0"/></node>
+  <node id="602" lat="40.668000" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_0_1"/></node>
+  <node id="603" lat="40.668000" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_0_2"/></node>
+  <node id="604" lat="40.668000" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_0_3"/></node>
+  <node id="605" lat="40.668000" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_0_4"/></node>
+  <node id="606" lat="40.668000" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_0_5"/></node>
+  <node id="607" lat="40.668000" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_0_6"/></node>
+  <node id="608" lat="40.668000" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_0_7"/></node>
+  <node id="609" lat="40.668000" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_0_8"/></node>
+  <node id="610" lat="40.668000" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_0_9"/></node>
+  <node id="611" lat="40.668000" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_0_10"/></node>
+  <node id="612" lat="40.668000" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_0_11"/></node>
+  <way id="2000">
+    <tag k="name" v="Dorsale_Settore_0"/>
+    <nd ref="501"/>
+    <nd ref="600"/>
+    <nd ref="601"/>
+    <nd ref="602"/>
+    <nd ref="603"/>
+    <nd ref="604"/>
+    <nd ref="605"/>
+    <nd ref="606"/>
+    <nd ref="607"/>
+    <nd ref="608"/>
+    <nd ref="609"/>
+    <nd ref="610"/>
+    <nd ref="611"/>
+    <nd ref="612"/>
+  </way>
+  <node id="613" lat="40.669100" lon="-73.898900">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H1"/></node>
+  <node id="614" lat="40.668200" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_1_0"/></node>
+  <node id="615" lat="40.668200" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_1_1"/></node>
+  <node id="616" lat="40.668200" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_1_2"/></node>
+  <node id="617" lat="40.668200" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_1_3"/></node>
+  <node id="618" lat="40.668200" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_1_4"/></node>
+  <node id="619" lat="40.668200" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_1_5"/></node>
+  <node id="620" lat="40.668200" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_1_6"/></node>
+  <node id="621" lat="40.668200" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_1_7"/></node>
+  <node id="622" lat="40.668200" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_1_8"/></node>
+  <node id="623" lat="40.668200" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_1_9"/></node>
+  <node id="624" lat="40.668200" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_1_10"/></node>
+  <node id="625" lat="40.668200" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_1_11"/></node>
+  <way id="2001">
+    <tag k="name" v="Dorsale_Settore_1"/>
+    <nd ref="501"/>
+    <nd ref="613"/>
+    <nd ref="614"/>
+    <nd ref="615"/>
+    <nd ref="616"/>
+    <nd ref="617"/>
+    <nd ref="618"/>
+    <nd ref="619"/>
+    <nd ref="620"/>
+    <nd ref="621"/>
+    <nd ref="622"/>
+    <nd ref="623"/>
+    <nd ref="624"/>
+    <nd ref="625"/>
+  </way>
+  <node id="626" lat="40.669200" lon="-73.898800">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H2"/></node>
+  <node id="627" lat="40.668400" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_2_0"/></node>
+  <node id="628" lat="40.668400" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_2_1"/></node>
+  <node id="629" lat="40.668400" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_2_2"/></node>
+  <node id="630" lat="40.668400" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_2_3"/></node>
+  <node id="631" lat="40.668400" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_2_4"/></node>
+  <node id="632" lat="40.668400" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_2_5"/></node>
+  <node id="633" lat="40.668400" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_2_6"/></node>
+  <node id="634" lat="40.668400" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_2_7"/></node>
+  <node id="635" lat="40.668400" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_2_8"/></node>
+  <node id="636" lat="40.668400" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_2_9"/></node>
+  <node id="637" lat="40.668400" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_2_10"/></node>
+  <node id="638" lat="40.668400" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_2_11"/></node>
+  <way id="2002">
+    <tag k="name" v="Dorsale_Settore_2"/>
+    <nd ref="501"/>
+    <nd ref="626"/>
+    <nd ref="627"/>
+    <nd ref="628"/>
+    <nd ref="629"/>
+    <nd ref="630"/>
+    <nd ref="631"/>
+    <nd ref="632"/>
+    <nd ref="633"/>
+    <nd ref="634"/>
+    <nd ref="635"/>
+    <nd ref="636"/>
+    <nd ref="637"/>
+    <nd ref="638"/>
+  </way>
+  <node id="639" lat="40.669300" lon="-73.898700">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H3"/></node>
+  <node id="640" lat="40.668600" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_3_0"/></node>
+  <node id="641" lat="40.668600" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_3_1"/></node>
+  <node id="642" lat="40.668600" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_3_2"/></node>
+  <node id="643" lat="40.668600" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_3_3"/></node>
+  <node id="644" lat="40.668600" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_3_4"/></node>
+  <node id="645" lat="40.668600" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_3_5"/></node>
+  <node id="646" lat="40.668600" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_3_6"/></node>
+  <node id="647" lat="40.668600" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_3_7"/></node>
+  <node id="648" lat="40.668600" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_3_8"/></node>
+  <node id="649" lat="40.668600" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_3_9"/></node>
+  <node id="650" lat="40.668600" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_3_10"/></node>
+  <node id="651" lat="40.668600" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_3_11"/></node>
+  <way id="2003">
+    <tag k="name" v="Dorsale_Settore_3"/>
+    <nd ref="501"/>
+    <nd ref="639"/>
+    <nd ref="640"/>
+    <nd ref="641"/>
+    <nd ref="642"/>
+    <nd ref="643"/>
+    <nd ref="644"/>
+    <nd ref="645"/>
+    <nd ref="646"/>
+    <nd ref="647"/>
+    <nd ref="648"/>
+    <nd ref="649"/>
+    <nd ref="650"/>
+    <nd ref="651"/>
+  </way>
+  <node id="652" lat="40.669400" lon="-73.898600">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H4"/></node>
+  <node id="653" lat="40.668800" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_4_0"/></node>
+  <node id="654" lat="40.668800" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_4_1"/></node>
+  <node id="655" lat="40.668800" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_4_2"/></node>
+  <node id="656" lat="40.668800" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_4_3"/></node>
+  <node id="657" lat="40.668800" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_4_4"/></node>
+  <node id="658" lat="40.668800" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_4_5"/></node>
+  <node id="659" lat="40.668800" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_4_6"/></node>
+  <node id="660" lat="40.668800" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_4_7"/></node>
+  <node id="661" lat="40.668800" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_4_8"/></node>
+  <node id="662" lat="40.668800" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_4_9"/></node>
+  <node id="663" lat="40.668800" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_4_10"/></node>
+  <node id="664" lat="40.668800" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_4_11"/></node>
+  <way id="2004">
+    <tag k="name" v="Dorsale_Settore_4"/>
+    <nd ref="501"/>
+    <nd ref="652"/>
+    <nd ref="653"/>
+    <nd ref="654"/>
+    <nd ref="655"/>
+    <nd ref="656"/>
+    <nd ref="657"/>
+    <nd ref="658"/>
+    <nd ref="659"/>
+    <nd ref="660"/>
+    <nd ref="661"/>
+    <nd ref="662"/>
+    <nd ref="663"/>
+    <nd ref="664"/>
+  </way>
+  <node id="665" lat="40.669500" lon="-73.898500">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H5"/></node>
+  <node id="666" lat="40.669000" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_5_0"/></node>
+  <node id="667" lat="40.669000" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_5_1"/></node>
+  <node id="668" lat="40.669000" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_5_2"/></node>
+  <node id="669" lat="40.669000" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_5_3"/></node>
+  <node id="670" lat="40.669000" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_5_4"/></node>
+  <node id="671" lat="40.669000" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_5_5"/></node>
+  <node id="672" lat="40.669000" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_5_6"/></node>
+  <node id="673" lat="40.669000" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_5_7"/></node>
+  <node id="674" lat="40.669000" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_5_8"/></node>
+  <node id="675" lat="40.669000" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_5_9"/></node>
+  <node id="676" lat="40.669000" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_5_10"/></node>
+  <node id="677" lat="40.669000" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_5_11"/></node>
+  <way id="2005">
+    <tag k="name" v="Dorsale_Settore_5"/>
+    <nd ref="501"/>
+    <nd ref="665"/>
+    <nd ref="666"/>
+    <nd ref="667"/>
+    <nd ref="668"/>
+    <nd ref="669"/>
+    <nd ref="670"/>
+    <nd ref="671"/>
+    <nd ref="672"/>
+    <nd ref="673"/>
+    <nd ref="674"/>
+    <nd ref="675"/>
+    <nd ref="676"/>
+    <nd ref="677"/>
+  </way>
+  <node id="678" lat="40.669600" lon="-73.898400">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H6"/></node>
+  <node id="679" lat="40.669200" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_6_0"/></node>
+  <node id="680" lat="40.669200" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_6_1"/></node>
+  <node id="681" lat="40.669200" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_6_2"/></node>
+  <node id="682" lat="40.669200" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_6_3"/></node>
+  <node id="683" lat="40.669200" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_6_4"/></node>
+  <node id="684" lat="40.669200" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_6_5"/></node>
+  <node id="685" lat="40.669200" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_6_6"/></node>
+  <node id="686" lat="40.669200" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_6_7"/></node>
+  <node id="687" lat="40.669200" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_6_8"/></node>
+  <node id="688" lat="40.669200" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_6_9"/></node>
+  <node id="689" lat="40.669200" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_6_10"/></node>
+  <node id="690" lat="40.669200" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_6_11"/></node>
+  <way id="2006">
+    <tag k="name" v="Dorsale_Settore_6"/>
+    <nd ref="501"/>
+    <nd ref="678"/>
+    <nd ref="679"/>
+    <nd ref="680"/>
+    <nd ref="681"/>
+    <nd ref="682"/>
+    <nd ref="683"/>
+    <nd ref="684"/>
+    <nd ref="685"/>
+    <nd ref="686"/>
+    <nd ref="687"/>
+    <nd ref="688"/>
+    <nd ref="689"/>
+    <nd ref="690"/>
+  </way>
+  <node id="691" lat="40.669700" lon="-73.898300">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H7"/></node>
+  <node id="692" lat="40.669400" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_7_0"/></node>
+  <node id="693" lat="40.669400" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_7_1"/></node>
+  <node id="694" lat="40.669400" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_7_2"/></node>
+  <node id="695" lat="40.669400" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_7_3"/></node>
+  <node id="696" lat="40.669400" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_7_4"/></node>
+  <node id="697" lat="40.669400" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_7_5"/></node>
+  <node id="698" lat="40.669400" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_7_6"/></node>
+  <node id="699" lat="40.669400" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_7_7"/></node>
+  <node id="700" lat="40.669400" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_7_8"/></node>
+  <node id="701" lat="40.669400" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_7_9"/></node>
+  <node id="702" lat="40.669400" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_7_10"/></node>
+  <node id="703" lat="40.669400" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_7_11"/></node>
+  <way id="2007">
+    <tag k="name" v="Dorsale_Settore_7"/>
+    <nd ref="501"/>
+    <nd ref="691"/>
+    <nd ref="692"/>
+    <nd ref="693"/>
+    <nd ref="694"/>
+    <nd ref="695"/>
+    <nd ref="696"/>
+    <nd ref="697"/>
+    <nd ref="698"/>
+    <nd ref="699"/>
+    <nd ref="700"/>
+    <nd ref="701"/>
+    <nd ref="702"/>
+    <nd ref="703"/>
+  </way>
+  <node id="704" lat="40.669800" lon="-73.898200">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H8"/></node>
+  <node id="705" lat="40.669600" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_8_0"/></node>
+  <node id="706" lat="40.669600" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_8_1"/></node>
+  <node id="707" lat="40.669600" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_8_2"/></node>
+  <node id="708" lat="40.669600" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_8_3"/></node>
+  <node id="709" lat="40.669600" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_8_4"/></node>
+  <node id="710" lat="40.669600" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_8_5"/></node>
+  <node id="711" lat="40.669600" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_8_6"/></node>
+  <node id="712" lat="40.669600" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_8_7"/></node>
+  <node id="713" lat="40.669600" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_8_8"/></node>
+  <node id="714" lat="40.669600" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_8_9"/></node>
+  <node id="715" lat="40.669600" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_8_10"/></node>
+  <node id="716" lat="40.669600" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_8_11"/></node>
+  <way id="2008">
+    <tag k="name" v="Dorsale_Settore_8"/>
+    <nd ref="501"/>
+    <nd ref="704"/>
+    <nd ref="705"/>
+    <nd ref="706"/>
+    <nd ref="707"/>
+    <nd ref="708"/>
+    <nd ref="709"/>
+    <nd ref="710"/>
+    <nd ref="711"/>
+    <nd ref="712"/>
+    <nd ref="713"/>
+    <nd ref="714"/>
+    <nd ref="715"/>
+    <nd ref="716"/>
+  </way>
+  <node id="717" lat="40.669900" lon="-73.898100">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H9"/></node>
+  <node id="718" lat="40.669800" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_9_0"/></node>
+  <node id="719" lat="40.669800" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_9_1"/></node>
+  <node id="720" lat="40.669800" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_9_2"/></node>
+  <node id="721" lat="40.669800" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_9_3"/></node>
+  <node id="722" lat="40.669800" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_9_4"/></node>
+  <node id="723" lat="40.669800" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_9_5"/></node>
+  <node id="724" lat="40.669800" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_9_6"/></node>
+  <node id="725" lat="40.669800" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_9_7"/></node>
+  <node id="726" lat="40.669800" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_9_8"/></node>
+  <node id="727" lat="40.669800" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_9_9"/></node>
+  <node id="728" lat="40.669800" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_9_10"/></node>
+  <node id="729" lat="40.669800" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_9_11"/></node>
+  <way id="2009">
+    <tag k="name" v="Dorsale_Settore_9"/>
+    <nd ref="501"/>
+    <nd ref="717"/>
+    <nd ref="718"/>
+    <nd ref="719"/>
+    <nd ref="720"/>
+    <nd ref="721"/>
+    <nd ref="722"/>
+    <nd ref="723"/>
+    <nd ref="724"/>
+    <nd ref="725"/>
+    <nd ref="726"/>
+    <nd ref="727"/>
+    <nd ref="728"/>
+    <nd ref="729"/>
+  </way>
+  <node id="730" lat="40.670000" lon="-73.898000">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H10"/></node>
+  <node id="731" lat="40.670000" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_10_0"/></node>
+  <node id="732" lat="40.670000" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_10_1"/></node>
+  <node id="733" lat="40.670000" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_10_2"/></node>
+  <node id="734" lat="40.670000" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_10_3"/></node>
+  <node id="735" lat="40.670000" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_10_4"/></node>
+  <node id="736" lat="40.670000" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_10_5"/></node>
+  <node id="737" lat="40.670000" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_10_6"/></node>
+  <node id="738" lat="40.670000" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_10_7"/></node>
+  <node id="739" lat="40.670000" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_10_8"/></node>
+  <node id="740" lat="40.670000" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_10_9"/></node>
+  <node id="741" lat="40.670000" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_10_10"/></node>
+  <node id="742" lat="40.670000" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_10_11"/></node>
+  <way id="2010">
+    <tag k="name" v="Dorsale_Settore_10"/>
+    <nd ref="501"/>
+    <nd ref="730"/>
+    <nd ref="731"/>
+    <nd ref="732"/>
+    <nd ref="733"/>
+    <nd ref="734"/>
+    <nd ref="735"/>
+    <nd ref="736"/>
+    <nd ref="737"/>
+    <nd ref="738"/>
+    <nd ref="739"/>
+    <nd ref="740"/>
+    <nd ref="741"/>
+    <nd ref="742"/>
+  </way>
+  <node id="743" lat="40.670100" lon="-73.897900">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H11"/></node>
+  <node id="744" lat="40.670200" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_11_0"/></node>
+  <node id="745" lat="40.670200" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_11_1"/></node>
+  <node id="746" lat="40.670200" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_11_2"/></node>
+  <node id="747" lat="40.670200" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_11_3"/></node>
+  <node id="748" lat="40.670200" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_11_4"/></node>
+  <node id="749" lat="40.670200" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_11_5"/></node>
+  <node id="750" lat="40.670200" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_11_6"/></node>
+  <node id="751" lat="40.670200" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_11_7"/></node>
+  <node id="752" lat="40.670200" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_11_8"/></node>
+  <node id="753" lat="40.670200" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_11_9"/></node>
+  <node id="754" lat="40.670200" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_11_10"/></node>
+  <node id="755" lat="40.670200" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_11_11"/></node>
+  <way id="2011">
+    <tag k="name" v="Dorsale_Settore_11"/>
+    <nd ref="501"/>
+    <nd ref="743"/>
+    <nd ref="744"/>
+    <nd ref="745"/>
+    <nd ref="746"/>
+    <nd ref="747"/>
+    <nd ref="748"/>
+    <nd ref="749"/>
+    <nd ref="750"/>
+    <nd ref="751"/>
+    <nd ref="752"/>
+    <nd ref="753"/>
+    <nd ref="754"/>
+    <nd ref="755"/>
+  </way>
+  <node id="756" lat="40.670200" lon="-73.897800">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H12"/></node>
+  <node id="757" lat="40.670400" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_12_0"/></node>
+  <node id="758" lat="40.670400" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_12_1"/></node>
+  <node id="759" lat="40.670400" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_12_2"/></node>
+  <node id="760" lat="40.670400" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_12_3"/></node>
+  <node id="761" lat="40.670400" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_12_4"/></node>
+  <node id="762" lat="40.670400" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_12_5"/></node>
+  <node id="763" lat="40.670400" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_12_6"/></node>
+  <node id="764" lat="40.670400" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_12_7"/></node>
+  <node id="765" lat="40.670400" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_12_8"/></node>
+  <node id="766" lat="40.670400" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_12_9"/></node>
+  <node id="767" lat="40.670400" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_12_10"/></node>
+  <node id="768" lat="40.670400" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_12_11"/></node>
+  <way id="2012">
+    <tag k="name" v="Dorsale_Settore_12"/>
+    <nd ref="501"/>
+    <nd ref="756"/>
+    <nd ref="757"/>
+    <nd ref="758"/>
+    <nd ref="759"/>
+    <nd ref="760"/>
+    <nd ref="761"/>
+    <nd ref="762"/>
+    <nd ref="763"/>
+    <nd ref="764"/>
+    <nd ref="765"/>
+    <nd ref="766"/>
+    <nd ref="767"/>
+    <nd ref="768"/>
+  </way>
+  <node id="769" lat="40.670300" lon="-73.897700">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H13"/></node>
+  <node id="770" lat="40.670600" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_13_0"/></node>
+  <node id="771" lat="40.670600" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_13_1"/></node>
+  <node id="772" lat="40.670600" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_13_2"/></node>
+  <node id="773" lat="40.670600" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_13_3"/></node>
+  <node id="774" lat="40.670600" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_13_4"/></node>
+  <node id="775" lat="40.670600" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_13_5"/></node>
+  <node id="776" lat="40.670600" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_13_6"/></node>
+  <node id="777" lat="40.670600" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_13_7"/></node>
+  <node id="778" lat="40.670600" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_13_8"/></node>
+  <node id="779" lat="40.670600" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_13_9"/></node>
+  <node id="780" lat="40.670600" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_13_10"/></node>
+  <node id="781" lat="40.670600" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_13_11"/></node>
+  <way id="2013">
+    <tag k="name" v="Dorsale_Settore_13"/>
+    <nd ref="501"/>
+    <nd ref="769"/>
+    <nd ref="770"/>
+    <nd ref="771"/>
+    <nd ref="772"/>
+    <nd ref="773"/>
+    <nd ref="774"/>
+    <nd ref="775"/>
+    <nd ref="776"/>
+    <nd ref="777"/>
+    <nd ref="778"/>
+    <nd ref="779"/>
+    <nd ref="780"/>
+    <nd ref="781"/>
+  </way>
+  <node id="782" lat="40.670400" lon="-73.897600">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H14"/></node>
+  <node id="783" lat="40.670800" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_14_0"/></node>
+  <node id="784" lat="40.670800" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_14_1"/></node>
+  <node id="785" lat="40.670800" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_14_2"/></node>
+  <node id="786" lat="40.670800" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_14_3"/></node>
+  <node id="787" lat="40.670800" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_14_4"/></node>
+  <node id="788" lat="40.670800" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_14_5"/></node>
+  <node id="789" lat="40.670800" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_14_6"/></node>
+  <node id="790" lat="40.670800" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_14_7"/></node>
+  <node id="791" lat="40.670800" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_14_8"/></node>
+  <node id="792" lat="40.670800" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_14_9"/></node>
+  <node id="793" lat="40.670800" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_14_10"/></node>
+  <node id="794" lat="40.670800" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_14_11"/></node>
+  <way id="2014">
+    <tag k="name" v="Dorsale_Settore_14"/>
+    <nd ref="501"/>
+    <nd ref="782"/>
+    <nd ref="783"/>
+    <nd ref="784"/>
+    <nd ref="785"/>
+    <nd ref="786"/>
+    <nd ref="787"/>
+    <nd ref="788"/>
+    <nd ref="789"/>
+    <nd ref="790"/>
+    <nd ref="791"/>
+    <nd ref="792"/>
+    <nd ref="793"/>
+    <nd ref="794"/>
+  </way>
+  <node id="795" lat="40.670500" lon="-73.897500">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H15"/></node>
+  <node id="796" lat="40.671000" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_15_0"/></node>
+  <node id="797" lat="40.671000" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_15_1"/></node>
+  <node id="798" lat="40.671000" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_15_2"/></node>
+  <node id="799" lat="40.671000" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_15_3"/></node>
+  <node id="800" lat="40.671000" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_15_4"/></node>
+  <node id="801" lat="40.671000" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_15_5"/></node>
+  <node id="802" lat="40.671000" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_15_6"/></node>
+  <node id="803" lat="40.671000" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_15_7"/></node>
+  <node id="804" lat="40.671000" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_15_8"/></node>
+  <node id="805" lat="40.671000" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_15_9"/></node>
+  <node id="806" lat="40.671000" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_15_10"/></node>
+  <node id="807" lat="40.671000" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_15_11"/></node>
+  <way id="2015">
+    <tag k="name" v="Dorsale_Settore_15"/>
+    <nd ref="501"/>
+    <nd ref="795"/>
+    <nd ref="796"/>
+    <nd ref="797"/>
+    <nd ref="798"/>
+    <nd ref="799"/>
+    <nd ref="800"/>
+    <nd ref="801"/>
+    <nd ref="802"/>
+    <nd ref="803"/>
+    <nd ref="804"/>
+    <nd ref="805"/>
+    <nd ref="806"/>
+    <nd ref="807"/>
+  </way>
+  <node id="808" lat="40.670600" lon="-73.897400">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H16"/></node>
+  <node id="809" lat="40.671200" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_16_0"/></node>
+  <node id="810" lat="40.671200" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_16_1"/></node>
+  <node id="811" lat="40.671200" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_16_2"/></node>
+  <node id="812" lat="40.671200" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_16_3"/></node>
+  <node id="813" lat="40.671200" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_16_4"/></node>
+  <node id="814" lat="40.671200" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_16_5"/></node>
+  <node id="815" lat="40.671200" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_16_6"/></node>
+  <node id="816" lat="40.671200" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_16_7"/></node>
+  <node id="817" lat="40.671200" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_16_8"/></node>
+  <node id="818" lat="40.671200" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_16_9"/></node>
+  <node id="819" lat="40.671200" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_16_10"/></node>
+  <node id="820" lat="40.671200" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_16_11"/></node>
+  <way id="2016">
+    <tag k="name" v="Dorsale_Settore_16"/>
+    <nd ref="501"/>
+    <nd ref="808"/>
+    <nd ref="809"/>
+    <nd ref="810"/>
+    <nd ref="811"/>
+    <nd ref="812"/>
+    <nd ref="813"/>
+    <nd ref="814"/>
+    <nd ref="815"/>
+    <nd ref="816"/>
+    <nd ref="817"/>
+    <nd ref="818"/>
+    <nd ref="819"/>
+    <nd ref="820"/>
+  </way>
+  <node id="821" lat="40.670700" lon="-73.897300">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H17"/></node>
+  <node id="822" lat="40.671400" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_17_0"/></node>
+  <node id="823" lat="40.671400" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_17_1"/></node>
+  <node id="824" lat="40.671400" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_17_2"/></node>
+  <node id="825" lat="40.671400" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_17_3"/></node>
+  <node id="826" lat="40.671400" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_17_4"/></node>
+  <node id="827" lat="40.671400" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_17_5"/></node>
+  <node id="828" lat="40.671400" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_17_6"/></node>
+  <node id="829" lat="40.671400" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_17_7"/></node>
+  <node id="830" lat="40.671400" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_17_8"/></node>
+  <node id="831" lat="40.671400" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_17_9"/></node>
+  <node id="832" lat="40.671400" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_17_10"/></node>
+  <node id="833" lat="40.671400" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_17_11"/></node>
+  <way id="2017">
+    <tag k="name" v="Dorsale_Settore_17"/>
+    <nd ref="501"/>
+    <nd ref="821"/>
+    <nd ref="822"/>
+    <nd ref="823"/>
+    <nd ref="824"/>
+    <nd ref="825"/>
+    <nd ref="826"/>
+    <nd ref="827"/>
+    <nd ref="828"/>
+    <nd ref="829"/>
+    <nd ref="830"/>
+    <nd ref="831"/>
+    <nd ref="832"/>
+    <nd ref="833"/>
+  </way>
+  <node id="834" lat="40.670800" lon="-73.897200">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H18"/></node>
+  <node id="835" lat="40.671600" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_18_0"/></node>
+  <node id="836" lat="40.671600" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_18_1"/></node>
+  <node id="837" lat="40.671600" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_18_2"/></node>
+  <node id="838" lat="40.671600" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_18_3"/></node>
+  <node id="839" lat="40.671600" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_18_4"/></node>
+  <node id="840" lat="40.671600" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_18_5"/></node>
+  <node id="841" lat="40.671600" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_18_6"/></node>
+  <node id="842" lat="40.671600" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_18_7"/></node>
+  <node id="843" lat="40.671600" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_18_8"/></node>
+  <node id="844" lat="40.671600" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_18_9"/></node>
+  <node id="845" lat="40.671600" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_18_10"/></node>
+  <node id="846" lat="40.671600" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_18_11"/></node>
+  <way id="2018">
+    <tag k="name" v="Dorsale_Settore_18"/>
+    <nd ref="501"/>
+    <nd ref="834"/>
+    <nd ref="835"/>
+    <nd ref="836"/>
+    <nd ref="837"/>
+    <nd ref="838"/>
+    <nd ref="839"/>
+    <nd ref="840"/>
+    <nd ref="841"/>
+    <nd ref="842"/>
+    <nd ref="843"/>
+    <nd ref="844"/>
+    <nd ref="845"/>
+    <nd ref="846"/>
+  </way>
+  <node id="847" lat="40.670900" lon="-73.897100">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H19"/></node>
+  <node id="848" lat="40.671800" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_19_0"/></node>
+  <node id="849" lat="40.671800" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_19_1"/></node>
+  <node id="850" lat="40.671800" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_19_2"/></node>
+  <node id="851" lat="40.671800" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_19_3"/></node>
+  <node id="852" lat="40.671800" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_19_4"/></node>
+  <node id="853" lat="40.671800" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_19_5"/></node>
+  <node id="854" lat="40.671800" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_19_6"/></node>
+  <node id="855" lat="40.671800" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_19_7"/></node>
+  <node id="856" lat="40.671800" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_19_8"/></node>
+  <node id="857" lat="40.671800" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_19_9"/></node>
+  <node id="858" lat="40.671800" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_19_10"/></node>
+  <node id="859" lat="40.671800" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_19_11"/></node>
+  <way id="2019">
+    <tag k="name" v="Dorsale_Settore_19"/>
+    <nd ref="501"/>
+    <nd ref="847"/>
+    <nd ref="848"/>
+    <nd ref="849"/>
+    <nd ref="850"/>
+    <nd ref="851"/>
+    <nd ref="852"/>
+    <nd ref="853"/>
+    <nd ref="854"/>
+    <nd ref="855"/>
+    <nd ref="856"/>
+    <nd ref="857"/>
+    <nd ref="858"/>
+    <nd ref="859"/>
+  </way>
+  <node id="860" lat="40.671000" lon="-73.897000">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H20"/></node>
+  <node id="861" lat="40.672000" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_20_0"/></node>
+  <node id="862" lat="40.672000" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_20_1"/></node>
+  <node id="863" lat="40.672000" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_20_2"/></node>
+  <node id="864" lat="40.672000" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_20_3"/></node>
+  <node id="865" lat="40.672000" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_20_4"/></node>
+  <node id="866" lat="40.672000" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_20_5"/></node>
+  <node id="867" lat="40.672000" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_20_6"/></node>
+  <node id="868" lat="40.672000" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_20_7"/></node>
+  <node id="869" lat="40.672000" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_20_8"/></node>
+  <node id="870" lat="40.672000" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_20_9"/></node>
+  <node id="871" lat="40.672000" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_20_10"/></node>
+  <node id="872" lat="40.672000" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_20_11"/></node>
+  <way id="2020">
+    <tag k="name" v="Dorsale_Settore_20"/>
+    <nd ref="501"/>
+    <nd ref="860"/>
+    <nd ref="861"/>
+    <nd ref="862"/>
+    <nd ref="863"/>
+    <nd ref="864"/>
+    <nd ref="865"/>
+    <nd ref="866"/>
+    <nd ref="867"/>
+    <nd ref="868"/>
+    <nd ref="869"/>
+    <nd ref="870"/>
+    <nd ref="871"/>
+    <nd ref="872"/>
+  </way>
+  <node id="873" lat="40.671100" lon="-73.896900">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H21"/></node>
+  <node id="874" lat="40.672200" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_21_0"/></node>
+  <node id="875" lat="40.672200" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_21_1"/></node>
+  <node id="876" lat="40.672200" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_21_2"/></node>
+  <node id="877" lat="40.672200" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_21_3"/></node>
+  <node id="878" lat="40.672200" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_21_4"/></node>
+  <node id="879" lat="40.672200" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_21_5"/></node>
+  <node id="880" lat="40.672200" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_21_6"/></node>
+  <node id="881" lat="40.672200" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_21_7"/></node>
+  <node id="882" lat="40.672200" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_21_8"/></node>
+  <node id="883" lat="40.672200" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_21_9"/></node>
+  <node id="884" lat="40.672200" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_21_10"/></node>
+  <node id="885" lat="40.672200" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_21_11"/></node>
+  <way id="2021">
+    <tag k="name" v="Dorsale_Settore_21"/>
+    <nd ref="501"/>
+    <nd ref="873"/>
+    <nd ref="874"/>
+    <nd ref="875"/>
+    <nd ref="876"/>
+    <nd ref="877"/>
+    <nd ref="878"/>
+    <nd ref="879"/>
+    <nd ref="880"/>
+    <nd ref="881"/>
+    <nd ref="882"/>
+    <nd ref="883"/>
+    <nd ref="884"/>
+    <nd ref="885"/>
+  </way>
+  <node id="886" lat="40.671200" lon="-73.896800">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H22"/></node>
+  <node id="887" lat="40.672400" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_22_0"/></node>
+  <node id="888" lat="40.672400" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_22_1"/></node>
+  <node id="889" lat="40.672400" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_22_2"/></node>
+  <node id="890" lat="40.672400" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_22_3"/></node>
+  <node id="891" lat="40.672400" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_22_4"/></node>
+  <node id="892" lat="40.672400" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_22_5"/></node>
+  <node id="893" lat="40.672400" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_22_6"/></node>
+  <node id="894" lat="40.672400" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_22_7"/></node>
+  <node id="895" lat="40.672400" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_22_8"/></node>
+  <node id="896" lat="40.672400" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_22_9"/></node>
+  <node id="897" lat="40.672400" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_22_10"/></node>
+  <node id="898" lat="40.672400" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_22_11"/></node>
+  <way id="2022">
+    <tag k="name" v="Dorsale_Settore_22"/>
+    <nd ref="501"/>
+    <nd ref="886"/>
+    <nd ref="887"/>
+    <nd ref="888"/>
+    <nd ref="889"/>
+    <nd ref="890"/>
+    <nd ref="891"/>
+    <nd ref="892"/>
+    <nd ref="893"/>
+    <nd ref="894"/>
+    <nd ref="895"/>
+    <nd ref="896"/>
+    <nd ref="897"/>
+    <nd ref="898"/>
+  </way>
+  <node id="899" lat="40.671300" lon="-73.896700">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H23"/></node>
+  <node id="900" lat="40.672600" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_23_0"/></node>
+  <node id="901" lat="40.672600" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_23_1"/></node>
+  <node id="902" lat="40.672600" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_23_2"/></node>
+  <node id="903" lat="40.672600" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_23_3"/></node>
+  <node id="904" lat="40.672600" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_23_4"/></node>
+  <node id="905" lat="40.672600" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_23_5"/></node>
+  <node id="906" lat="40.672600" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_23_6"/></node>
+  <node id="907" lat="40.672600" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_23_7"/></node>
+  <node id="908" lat="40.672600" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_23_8"/></node>
+  <node id="909" lat="40.672600" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_23_9"/></node>
+  <node id="910" lat="40.672600" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_23_10"/></node>
+  <node id="911" lat="40.672600" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_23_11"/></node>
+  <way id="2023">
+    <tag k="name" v="Dorsale_Settore_23"/>
+    <nd ref="501"/>
+    <nd ref="899"/>
+    <nd ref="900"/>
+    <nd ref="901"/>
+    <nd ref="902"/>
+    <nd ref="903"/>
+    <nd ref="904"/>
+    <nd ref="905"/>
+    <nd ref="906"/>
+    <nd ref="907"/>
+    <nd ref="908"/>
+    <nd ref="909"/>
+    <nd ref="910"/>
+    <nd ref="911"/>
+  </way>
+  <node id="912" lat="40.671400" lon="-73.896600">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H24"/></node>
+  <node id="913" lat="40.672800" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_24_0"/></node>
+  <node id="914" lat="40.672800" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_24_1"/></node>
+  <node id="915" lat="40.672800" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_24_2"/></node>
+  <node id="916" lat="40.672800" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_24_3"/></node>
+  <node id="917" lat="40.672800" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_24_4"/></node>
+  <node id="918" lat="40.672800" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_24_5"/></node>
+  <node id="919" lat="40.672800" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_24_6"/></node>
+  <node id="920" lat="40.672800" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_24_7"/></node>
+  <node id="921" lat="40.672800" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_24_8"/></node>
+  <node id="922" lat="40.672800" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_24_9"/></node>
+  <node id="923" lat="40.672800" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_24_10"/></node>
+  <node id="924" lat="40.672800" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_24_11"/></node>
+  <way id="2024">
+    <tag k="name" v="Dorsale_Settore_24"/>
+    <nd ref="501"/>
+    <nd ref="912"/>
+    <nd ref="913"/>
+    <nd ref="914"/>
+    <nd ref="915"/>
+    <nd ref="916"/>
+    <nd ref="917"/>
+    <nd ref="918"/>
+    <nd ref="919"/>
+    <nd ref="920"/>
+    <nd ref="921"/>
+    <nd ref="922"/>
+    <nd ref="923"/>
+    <nd ref="924"/>
+  </way>
+  <node id="925" lat="40.671500" lon="-73.896500">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H25"/></node>
+  <node id="926" lat="40.673000" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_25_0"/></node>
+  <node id="927" lat="40.673000" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_25_1"/></node>
+  <node id="928" lat="40.673000" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_25_2"/></node>
+  <node id="929" lat="40.673000" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_25_3"/></node>
+  <node id="930" lat="40.673000" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_25_4"/></node>
+  <node id="931" lat="40.673000" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_25_5"/></node>
+  <node id="932" lat="40.673000" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_25_6"/></node>
+  <node id="933" lat="40.673000" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_25_7"/></node>
+  <node id="934" lat="40.673000" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_25_8"/></node>
+  <node id="935" lat="40.673000" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_25_9"/></node>
+  <node id="936" lat="40.673000" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_25_10"/></node>
+  <node id="937" lat="40.673000" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_25_11"/></node>
+  <way id="2025">
+    <tag k="name" v="Dorsale_Settore_25"/>
+    <nd ref="501"/>
+    <nd ref="925"/>
+    <nd ref="926"/>
+    <nd ref="927"/>
+    <nd ref="928"/>
+    <nd ref="929"/>
+    <nd ref="930"/>
+    <nd ref="931"/>
+    <nd ref="932"/>
+    <nd ref="933"/>
+    <nd ref="934"/>
+    <nd ref="935"/>
+    <nd ref="936"/>
+    <nd ref="937"/>
+  </way>
+  <node id="938" lat="40.671600" lon="-73.896400">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H26"/></node>
+  <node id="939" lat="40.673200" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_26_0"/></node>
+  <node id="940" lat="40.673200" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_26_1"/></node>
+  <node id="941" lat="40.673200" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_26_2"/></node>
+  <node id="942" lat="40.673200" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_26_3"/></node>
+  <node id="943" lat="40.673200" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_26_4"/></node>
+  <node id="944" lat="40.673200" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_26_5"/></node>
+  <node id="945" lat="40.673200" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_26_6"/></node>
+  <node id="946" lat="40.673200" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_26_7"/></node>
+  <node id="947" lat="40.673200" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_26_8"/></node>
+  <node id="948" lat="40.673200" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_26_9"/></node>
+  <node id="949" lat="40.673200" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_26_10"/></node>
+  <node id="950" lat="40.673200" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_26_11"/></node>
+  <way id="2026">
+    <tag k="name" v="Dorsale_Settore_26"/>
+    <nd ref="501"/>
+    <nd ref="938"/>
+    <nd ref="939"/>
+    <nd ref="940"/>
+    <nd ref="941"/>
+    <nd ref="942"/>
+    <nd ref="943"/>
+    <nd ref="944"/>
+    <nd ref="945"/>
+    <nd ref="946"/>
+    <nd ref="947"/>
+    <nd ref="948"/>
+    <nd ref="949"/>
+    <nd ref="950"/>
+  </way>
+  <node id="951" lat="40.671700" lon="-73.896300">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H27"/></node>
+  <node id="952" lat="40.673400" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_27_0"/></node>
+  <node id="953" lat="40.673400" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_27_1"/></node>
+  <node id="954" lat="40.673400" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_27_2"/></node>
+  <node id="955" lat="40.673400" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_27_3"/></node>
+  <node id="956" lat="40.673400" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_27_4"/></node>
+  <node id="957" lat="40.673400" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_27_5"/></node>
+  <node id="958" lat="40.673400" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_27_6"/></node>
+  <node id="959" lat="40.673400" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_27_7"/></node>
+  <node id="960" lat="40.673400" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_27_8"/></node>
+  <node id="961" lat="40.673400" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_27_9"/></node>
+  <node id="962" lat="40.673400" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_27_10"/></node>
+  <node id="963" lat="40.673400" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_27_11"/></node>
+  <way id="2027">
+    <tag k="name" v="Dorsale_Settore_27"/>
+    <nd ref="501"/>
+    <nd ref="951"/>
+    <nd ref="952"/>
+    <nd ref="953"/>
+    <nd ref="954"/>
+    <nd ref="955"/>
+    <nd ref="956"/>
+    <nd ref="957"/>
+    <nd ref="958"/>
+    <nd ref="959"/>
+    <nd ref="960"/>
+    <nd ref="961"/>
+    <nd ref="962"/>
+    <nd ref="963"/>
+  </way>
+  <node id="964" lat="40.671800" lon="-73.896200">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H28"/></node>
+  <node id="965" lat="40.673600" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_28_0"/></node>
+  <node id="966" lat="40.673600" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_28_1"/></node>
+  <node id="967" lat="40.673600" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_28_2"/></node>
+  <node id="968" lat="40.673600" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_28_3"/></node>
+  <node id="969" lat="40.673600" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_28_4"/></node>
+  <node id="970" lat="40.673600" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_28_5"/></node>
+  <node id="971" lat="40.673600" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_28_6"/></node>
+  <node id="972" lat="40.673600" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_28_7"/></node>
+  <node id="973" lat="40.673600" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_28_8"/></node>
+  <node id="974" lat="40.673600" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_28_9"/></node>
+  <node id="975" lat="40.673600" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_28_10"/></node>
+  <node id="976" lat="40.673600" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_28_11"/></node>
+  <way id="2028">
+    <tag k="name" v="Dorsale_Settore_28"/>
+    <nd ref="501"/>
+    <nd ref="964"/>
+    <nd ref="965"/>
+    <nd ref="966"/>
+    <nd ref="967"/>
+    <nd ref="968"/>
+    <nd ref="969"/>
+    <nd ref="970"/>
+    <nd ref="971"/>
+    <nd ref="972"/>
+    <nd ref="973"/>
+    <nd ref="974"/>
+    <nd ref="975"/>
+    <nd ref="976"/>
+  </way>
+  <node id="977" lat="40.671900" lon="-73.896100">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H29"/></node>
+  <node id="978" lat="40.673800" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_29_0"/></node>
+  <node id="979" lat="40.673800" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_29_1"/></node>
+  <node id="980" lat="40.673800" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_29_2"/></node>
+  <node id="981" lat="40.673800" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_29_3"/></node>
+  <node id="982" lat="40.673800" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_29_4"/></node>
+  <node id="983" lat="40.673800" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_29_5"/></node>
+  <node id="984" lat="40.673800" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_29_6"/></node>
+  <node id="985" lat="40.673800" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_29_7"/></node>
+  <node id="986" lat="40.673800" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_29_8"/></node>
+  <node id="987" lat="40.673800" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_29_9"/></node>
+  <node id="988" lat="40.673800" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_29_10"/></node>
+  <node id="989" lat="40.673800" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_29_11"/></node>
+  <way id="2029">
+    <tag k="name" v="Dorsale_Settore_29"/>
+    <nd ref="501"/>
+    <nd ref="977"/>
+    <nd ref="978"/>
+    <nd ref="979"/>
+    <nd ref="980"/>
+    <nd ref="981"/>
+    <nd ref="982"/>
+    <nd ref="983"/>
+    <nd ref="984"/>
+    <nd ref="985"/>
+    <nd ref="986"/>
+    <nd ref="987"/>
+    <nd ref="988"/>
+    <nd ref="989"/>
+  </way>
+  <node id="990" lat="40.672000" lon="-73.896000">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H30"/></node>
+  <node id="991" lat="40.674000" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_30_0"/></node>
+  <node id="992" lat="40.674000" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_30_1"/></node>
+  <node id="993" lat="40.674000" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_30_2"/></node>
+  <node id="994" lat="40.674000" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_30_3"/></node>
+  <node id="995" lat="40.674000" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_30_4"/></node>
+  <node id="996" lat="40.674000" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_30_5"/></node>
+  <node id="997" lat="40.674000" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_30_6"/></node>
+  <node id="998" lat="40.674000" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_30_7"/></node>
+  <node id="999" lat="40.674000" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_30_8"/></node>
+  <node id="1000" lat="40.674000" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_30_9"/></node>
+  <node id="1001" lat="40.674000" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_30_10"/></node>
+  <node id="1002" lat="40.674000" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_30_11"/></node>
+  <way id="2030">
+    <tag k="name" v="Dorsale_Settore_30"/>
+    <nd ref="501"/>
+    <nd ref="990"/>
+    <nd ref="991"/>
+    <nd ref="992"/>
+    <nd ref="993"/>
+    <nd ref="994"/>
+    <nd ref="995"/>
+    <nd ref="996"/>
+    <nd ref="997"/>
+    <nd ref="998"/>
+    <nd ref="999"/>
+    <nd ref="1000"/>
+    <nd ref="1001"/>
+    <nd ref="1002"/>
+  </way>
+  <node id="1003" lat="40.672100" lon="-73.895900">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H31"/></node>
+  <node id="1004" lat="40.674200" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_31_0"/></node>
+  <node id="1005" lat="40.674200" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_31_1"/></node>
+  <node id="1006" lat="40.674200" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_31_2"/></node>
+  <node id="1007" lat="40.674200" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_31_3"/></node>
+  <node id="1008" lat="40.674200" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_31_4"/></node>
+  <node id="1009" lat="40.674200" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_31_5"/></node>
+  <node id="1010" lat="40.674200" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_31_6"/></node>
+  <node id="1011" lat="40.674200" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_31_7"/></node>
+  <node id="1012" lat="40.674200" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_31_8"/></node>
+  <node id="1013" lat="40.674200" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_31_9"/></node>
+  <node id="1014" lat="40.674200" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_31_10"/></node>
+  <node id="1015" lat="40.674200" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_31_11"/></node>
+  <way id="2031">
+    <tag k="name" v="Dorsale_Settore_31"/>
+    <nd ref="501"/>
+    <nd ref="1003"/>
+    <nd ref="1004"/>
+    <nd ref="1005"/>
+    <nd ref="1006"/>
+    <nd ref="1007"/>
+    <nd ref="1008"/>
+    <nd ref="1009"/>
+    <nd ref="1010"/>
+    <nd ref="1011"/>
+    <nd ref="1012"/>
+    <nd ref="1013"/>
+    <nd ref="1014"/>
+    <nd ref="1015"/>
+  </way>
+  <node id="1016" lat="40.672200" lon="-73.895800">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H32"/></node>
+  <node id="1017" lat="40.674400" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_32_0"/></node>
+  <node id="1018" lat="40.674400" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_32_1"/></node>
+  <node id="1019" lat="40.674400" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_32_2"/></node>
+  <node id="1020" lat="40.674400" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_32_3"/></node>
+  <node id="1021" lat="40.674400" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_32_4"/></node>
+  <node id="1022" lat="40.674400" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_32_5"/></node>
+  <node id="1023" lat="40.674400" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_32_6"/></node>
+  <node id="1024" lat="40.674400" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_32_7"/></node>
+  <node id="1025" lat="40.674400" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_32_8"/></node>
+  <node id="1026" lat="40.674400" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_32_9"/></node>
+  <node id="1027" lat="40.674400" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_32_10"/></node>
+  <node id="1028" lat="40.674400" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_32_11"/></node>
+  <way id="2032">
+    <tag k="name" v="Dorsale_Settore_32"/>
+    <nd ref="501"/>
+    <nd ref="1016"/>
+    <nd ref="1017"/>
+    <nd ref="1018"/>
+    <nd ref="1019"/>
+    <nd ref="1020"/>
+    <nd ref="1021"/>
+    <nd ref="1022"/>
+    <nd ref="1023"/>
+    <nd ref="1024"/>
+    <nd ref="1025"/>
+    <nd ref="1026"/>
+    <nd ref="1027"/>
+    <nd ref="1028"/>
+  </way>
+  <node id="1029" lat="40.672300" lon="-73.895700">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H33"/></node>
+  <node id="1030" lat="40.674600" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_33_0"/></node>
+  <node id="1031" lat="40.674600" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_33_1"/></node>
+  <node id="1032" lat="40.674600" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_33_2"/></node>
+  <node id="1033" lat="40.674600" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_33_3"/></node>
+  <node id="1034" lat="40.674600" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_33_4"/></node>
+  <node id="1035" lat="40.674600" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_33_5"/></node>
+  <node id="1036" lat="40.674600" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_33_6"/></node>
+  <node id="1037" lat="40.674600" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_33_7"/></node>
+  <node id="1038" lat="40.674600" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_33_8"/></node>
+  <node id="1039" lat="40.674600" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_33_9"/></node>
+  <node id="1040" lat="40.674600" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_33_10"/></node>
+  <node id="1041" lat="40.674600" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_33_11"/></node>
+  <way id="2033">
+    <tag k="name" v="Dorsale_Settore_33"/>
+    <nd ref="501"/>
+    <nd ref="1029"/>
+    <nd ref="1030"/>
+    <nd ref="1031"/>
+    <nd ref="1032"/>
+    <nd ref="1033"/>
+    <nd ref="1034"/>
+    <nd ref="1035"/>
+    <nd ref="1036"/>
+    <nd ref="1037"/>
+    <nd ref="1038"/>
+    <nd ref="1039"/>
+    <nd ref="1040"/>
+    <nd ref="1041"/>
+  </way>
+  <node id="1042" lat="40.672400" lon="-73.895600">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H34"/></node>
+  <node id="1043" lat="40.674800" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_34_0"/></node>
+  <node id="1044" lat="40.674800" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_34_1"/></node>
+  <node id="1045" lat="40.674800" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_34_2"/></node>
+  <node id="1046" lat="40.674800" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_34_3"/></node>
+  <node id="1047" lat="40.674800" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_34_4"/></node>
+  <node id="1048" lat="40.674800" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_34_5"/></node>
+  <node id="1049" lat="40.674800" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_34_6"/></node>
+  <node id="1050" lat="40.674800" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_34_7"/></node>
+  <node id="1051" lat="40.674800" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_34_8"/></node>
+  <node id="1052" lat="40.674800" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_34_9"/></node>
+  <node id="1053" lat="40.674800" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_34_10"/></node>
+  <node id="1054" lat="40.674800" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_34_11"/></node>
+  <way id="2034">
+    <tag k="name" v="Dorsale_Settore_34"/>
+    <nd ref="501"/>
+    <nd ref="1042"/>
+    <nd ref="1043"/>
+    <nd ref="1044"/>
+    <nd ref="1045"/>
+    <nd ref="1046"/>
+    <nd ref="1047"/>
+    <nd ref="1048"/>
+    <nd ref="1049"/>
+    <nd ref="1050"/>
+    <nd ref="1051"/>
+    <nd ref="1052"/>
+    <nd ref="1053"/>
+    <nd ref="1054"/>
+  </way>
+  <node id="1055" lat="40.672500" lon="-73.895500">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H35"/></node>
+  <node id="1056" lat="40.675000" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_35_0"/></node>
+  <node id="1057" lat="40.675000" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_35_1"/></node>
+  <node id="1058" lat="40.675000" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_35_2"/></node>
+  <node id="1059" lat="40.675000" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_35_3"/></node>
+  <node id="1060" lat="40.675000" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_35_4"/></node>
+  <node id="1061" lat="40.675000" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_35_5"/></node>
+  <node id="1062" lat="40.675000" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_35_6"/></node>
+  <node id="1063" lat="40.675000" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_35_7"/></node>
+  <node id="1064" lat="40.675000" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_35_8"/></node>
+  <node id="1065" lat="40.675000" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_35_9"/></node>
+  <node id="1066" lat="40.675000" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_35_10"/></node>
+  <node id="1067" lat="40.675000" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_35_11"/></node>
+  <way id="2035">
+    <tag k="name" v="Dorsale_Settore_35"/>
+    <nd ref="501"/>
+    <nd ref="1055"/>
+    <nd ref="1056"/>
+    <nd ref="1057"/>
+    <nd ref="1058"/>
+    <nd ref="1059"/>
+    <nd ref="1060"/>
+    <nd ref="1061"/>
+    <nd ref="1062"/>
+    <nd ref="1063"/>
+    <nd ref="1064"/>
+    <nd ref="1065"/>
+    <nd ref="1066"/>
+    <nd ref="1067"/>
+  </way>
+  <node id="1068" lat="40.672600" lon="-73.895400">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H36"/></node>
+  <node id="1069" lat="40.675200" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_36_0"/></node>
+  <node id="1070" lat="40.675200" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_36_1"/></node>
+  <node id="1071" lat="40.675200" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_36_2"/></node>
+  <node id="1072" lat="40.675200" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_36_3"/></node>
+  <node id="1073" lat="40.675200" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_36_4"/></node>
+  <node id="1074" lat="40.675200" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_36_5"/></node>
+  <node id="1075" lat="40.675200" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_36_6"/></node>
+  <node id="1076" lat="40.675200" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_36_7"/></node>
+  <node id="1077" lat="40.675200" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_36_8"/></node>
+  <node id="1078" lat="40.675200" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_36_9"/></node>
+  <node id="1079" lat="40.675200" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_36_10"/></node>
+  <node id="1080" lat="40.675200" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_36_11"/></node>
+  <way id="2036">
+    <tag k="name" v="Dorsale_Settore_36"/>
+    <nd ref="501"/>
+    <nd ref="1068"/>
+    <nd ref="1069"/>
+    <nd ref="1070"/>
+    <nd ref="1071"/>
+    <nd ref="1072"/>
+    <nd ref="1073"/>
+    <nd ref="1074"/>
+    <nd ref="1075"/>
+    <nd ref="1076"/>
+    <nd ref="1077"/>
+    <nd ref="1078"/>
+    <nd ref="1079"/>
+    <nd ref="1080"/>
+  </way>
+  <node id="1081" lat="40.672700" lon="-73.895300">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H37"/></node>
+  <node id="1082" lat="40.675400" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_37_0"/></node>
+  <node id="1083" lat="40.675400" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_37_1"/></node>
+  <node id="1084" lat="40.675400" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_37_2"/></node>
+  <node id="1085" lat="40.675400" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_37_3"/></node>
+  <node id="1086" lat="40.675400" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_37_4"/></node>
+  <node id="1087" lat="40.675400" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_37_5"/></node>
+  <node id="1088" lat="40.675400" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_37_6"/></node>
+  <node id="1089" lat="40.675400" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_37_7"/></node>
+  <node id="1090" lat="40.675400" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_37_8"/></node>
+  <node id="1091" lat="40.675400" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_37_9"/></node>
+  <node id="1092" lat="40.675400" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_37_10"/></node>
+  <node id="1093" lat="40.675400" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_37_11"/></node>
+  <way id="2037">
+    <tag k="name" v="Dorsale_Settore_37"/>
+    <nd ref="501"/>
+    <nd ref="1081"/>
+    <nd ref="1082"/>
+    <nd ref="1083"/>
+    <nd ref="1084"/>
+    <nd ref="1085"/>
+    <nd ref="1086"/>
+    <nd ref="1087"/>
+    <nd ref="1088"/>
+    <nd ref="1089"/>
+    <nd ref="1090"/>
+    <nd ref="1091"/>
+    <nd ref="1092"/>
+    <nd ref="1093"/>
+  </way>
+  <node id="1094" lat="40.672800" lon="-73.895200">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H38"/></node>
+  <node id="1095" lat="40.675600" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_38_0"/></node>
+  <node id="1096" lat="40.675600" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_38_1"/></node>
+  <node id="1097" lat="40.675600" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_38_2"/></node>
+  <node id="1098" lat="40.675600" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_38_3"/></node>
+  <node id="1099" lat="40.675600" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_38_4"/></node>
+  <node id="1100" lat="40.675600" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_38_5"/></node>
+  <node id="1101" lat="40.675600" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_38_6"/></node>
+  <node id="1102" lat="40.675600" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_38_7"/></node>
+  <node id="1103" lat="40.675600" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_38_8"/></node>
+  <node id="1104" lat="40.675600" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_38_9"/></node>
+  <node id="1105" lat="40.675600" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_38_10"/></node>
+  <node id="1106" lat="40.675600" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_38_11"/></node>
+  <way id="2038">
+    <tag k="name" v="Dorsale_Settore_38"/>
+    <nd ref="501"/>
+    <nd ref="1094"/>
+    <nd ref="1095"/>
+    <nd ref="1096"/>
+    <nd ref="1097"/>
+    <nd ref="1098"/>
+    <nd ref="1099"/>
+    <nd ref="1100"/>
+    <nd ref="1101"/>
+    <nd ref="1102"/>
+    <nd ref="1103"/>
+    <nd ref="1104"/>
+    <nd ref="1105"/>
+    <nd ref="1106"/>
+  </way>
+  <node id="1107" lat="40.672900" lon="-73.895100">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H39"/></node>
+  <node id="1108" lat="40.675800" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_39_0"/></node>
+  <node id="1109" lat="40.675800" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_39_1"/></node>
+  <node id="1110" lat="40.675800" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_39_2"/></node>
+  <node id="1111" lat="40.675800" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_39_3"/></node>
+  <node id="1112" lat="40.675800" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_39_4"/></node>
+  <node id="1113" lat="40.675800" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_39_5"/></node>
+  <node id="1114" lat="40.675800" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_39_6"/></node>
+  <node id="1115" lat="40.675800" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_39_7"/></node>
+  <node id="1116" lat="40.675800" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_39_8"/></node>
+  <node id="1117" lat="40.675800" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_39_9"/></node>
+  <node id="1118" lat="40.675800" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_39_10"/></node>
+  <node id="1119" lat="40.675800" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_39_11"/></node>
+  <way id="2039">
+    <tag k="name" v="Dorsale_Settore_39"/>
+    <nd ref="501"/>
+    <nd ref="1107"/>
+    <nd ref="1108"/>
+    <nd ref="1109"/>
+    <nd ref="1110"/>
+    <nd ref="1111"/>
+    <nd ref="1112"/>
+    <nd ref="1113"/>
+    <nd ref="1114"/>
+    <nd ref="1115"/>
+    <nd ref="1116"/>
+    <nd ref="1117"/>
+    <nd ref="1118"/>
+    <nd ref="1119"/>
+  </way>
+  <node id="1120" lat="40.673000" lon="-73.895000">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H40"/></node>
+  <node id="1121" lat="40.676000" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_40_0"/></node>
+  <node id="1122" lat="40.676000" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_40_1"/></node>
+  <node id="1123" lat="40.676000" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_40_2"/></node>
+  <node id="1124" lat="40.676000" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_40_3"/></node>
+  <node id="1125" lat="40.676000" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_40_4"/></node>
+  <node id="1126" lat="40.676000" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_40_5"/></node>
+  <node id="1127" lat="40.676000" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_40_6"/></node>
+  <node id="1128" lat="40.676000" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_40_7"/></node>
+  <node id="1129" lat="40.676000" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_40_8"/></node>
+  <node id="1130" lat="40.676000" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_40_9"/></node>
+  <node id="1131" lat="40.676000" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_40_10"/></node>
+  <node id="1132" lat="40.676000" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_40_11"/></node>
+  <way id="2040">
+    <tag k="name" v="Dorsale_Settore_40"/>
+    <nd ref="501"/>
+    <nd ref="1120"/>
+    <nd ref="1121"/>
+    <nd ref="1122"/>
+    <nd ref="1123"/>
+    <nd ref="1124"/>
+    <nd ref="1125"/>
+    <nd ref="1126"/>
+    <nd ref="1127"/>
+    <nd ref="1128"/>
+    <nd ref="1129"/>
+    <nd ref="1130"/>
+    <nd ref="1131"/>
+    <nd ref="1132"/>
+  </way>
+  <node id="1133" lat="40.673100" lon="-73.894900">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H41"/></node>
+  <node id="1134" lat="40.676200" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_41_0"/></node>
+  <node id="1135" lat="40.676200" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_41_1"/></node>
+  <node id="1136" lat="40.676200" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_41_2"/></node>
+  <node id="1137" lat="40.676200" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_41_3"/></node>
+  <node id="1138" lat="40.676200" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_41_4"/></node>
+  <node id="1139" lat="40.676200" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_41_5"/></node>
+  <node id="1140" lat="40.676200" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_41_6"/></node>
+  <node id="1141" lat="40.676200" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_41_7"/></node>
+  <node id="1142" lat="40.676200" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_41_8"/></node>
+  <node id="1143" lat="40.676200" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_41_9"/></node>
+  <node id="1144" lat="40.676200" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_41_10"/></node>
+  <node id="1145" lat="40.676200" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_41_11"/></node>
+  <way id="2041">
+    <tag k="name" v="Dorsale_Settore_41"/>
+    <nd ref="501"/>
+    <nd ref="1133"/>
+    <nd ref="1134"/>
+    <nd ref="1135"/>
+    <nd ref="1136"/>
+    <nd ref="1137"/>
+    <nd ref="1138"/>
+    <nd ref="1139"/>
+    <nd ref="1140"/>
+    <nd ref="1141"/>
+    <nd ref="1142"/>
+    <nd ref="1143"/>
+    <nd ref="1144"/>
+    <nd ref="1145"/>
+  </way>
+  <node id="1146" lat="40.673200" lon="-73.894800">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H42"/></node>
+  <node id="1147" lat="40.676400" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_42_0"/></node>
+  <node id="1148" lat="40.676400" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_42_1"/></node>
+  <node id="1149" lat="40.676400" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_42_2"/></node>
+  <node id="1150" lat="40.676400" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_42_3"/></node>
+  <node id="1151" lat="40.676400" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_42_4"/></node>
+  <node id="1152" lat="40.676400" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_42_5"/></node>
+  <node id="1153" lat="40.676400" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_42_6"/></node>
+  <node id="1154" lat="40.676400" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_42_7"/></node>
+  <node id="1155" lat="40.676400" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_42_8"/></node>
+  <node id="1156" lat="40.676400" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_42_9"/></node>
+  <node id="1157" lat="40.676400" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_42_10"/></node>
+  <node id="1158" lat="40.676400" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_42_11"/></node>
+  <way id="2042">
+    <tag k="name" v="Dorsale_Settore_42"/>
+    <nd ref="501"/>
+    <nd ref="1146"/>
+    <nd ref="1147"/>
+    <nd ref="1148"/>
+    <nd ref="1149"/>
+    <nd ref="1150"/>
+    <nd ref="1151"/>
+    <nd ref="1152"/>
+    <nd ref="1153"/>
+    <nd ref="1154"/>
+    <nd ref="1155"/>
+    <nd ref="1156"/>
+    <nd ref="1157"/>
+    <nd ref="1158"/>
+  </way>
+  <node id="1159" lat="40.673300" lon="-73.894700">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H43"/></node>
+  <node id="1160" lat="40.676600" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_43_0"/></node>
+  <node id="1161" lat="40.676600" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_43_1"/></node>
+  <node id="1162" lat="40.676600" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_43_2"/></node>
+  <node id="1163" lat="40.676600" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_43_3"/></node>
+  <node id="1164" lat="40.676600" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_43_4"/></node>
+  <node id="1165" lat="40.676600" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_43_5"/></node>
+  <node id="1166" lat="40.676600" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_43_6"/></node>
+  <node id="1167" lat="40.676600" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_43_7"/></node>
+  <node id="1168" lat="40.676600" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_43_8"/></node>
+  <node id="1169" lat="40.676600" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_43_9"/></node>
+  <node id="1170" lat="40.676600" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_43_10"/></node>
+  <node id="1171" lat="40.676600" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_43_11"/></node>
+  <way id="2043">
+    <tag k="name" v="Dorsale_Settore_43"/>
+    <nd ref="501"/>
+    <nd ref="1159"/>
+    <nd ref="1160"/>
+    <nd ref="1161"/>
+    <nd ref="1162"/>
+    <nd ref="1163"/>
+    <nd ref="1164"/>
+    <nd ref="1165"/>
+    <nd ref="1166"/>
+    <nd ref="1167"/>
+    <nd ref="1168"/>
+    <nd ref="1169"/>
+    <nd ref="1170"/>
+    <nd ref="1171"/>
+  </way>
+  <node id="1172" lat="40.673400" lon="-73.894600">
+    <tag k="highway" v="traffic_signals"/><tag k="name" v="Valvola_H44"/></node>
+  <node id="1173" lat="40.676800" lon="-73.897000">
+    <tag k="name" v="Sensore_Umidita_Vite_44_0"/></node>
+  <node id="1174" lat="40.676800" lon="-73.896800">
+    <tag k="name" v="Sensore_Umidita_Mais_44_1"/></node>
+  <node id="1175" lat="40.676800" lon="-73.896600">
+    <tag k="name" v="Sensore_Umidita_Vite_44_2"/></node>
+  <node id="1176" lat="40.676800" lon="-73.896400">
+    <tag k="name" v="Sensore_Umidita_Mais_44_3"/></node>
+  <node id="1177" lat="40.676800" lon="-73.896200">
+    <tag k="name" v="Sensore_Umidita_Vite_44_4"/></node>
+  <node id="1178" lat="40.676800" lon="-73.896000">
+    <tag k="name" v="Sensore_Umidita_Mais_44_5"/></node>
+  <node id="1179" lat="40.676800" lon="-73.895800">
+    <tag k="name" v="Sensore_Umidita_Vite_44_6"/></node>
+  <node id="1180" lat="40.676800" lon="-73.895600">
+    <tag k="name" v="Sensore_Umidita_Mais_44_7"/></node>
+  <node id="1181" lat="40.676800" lon="-73.895400">
+    <tag k="name" v="Sensore_Umidita_Vite_44_8"/></node>
+  <node id="1182" lat="40.676800" lon="-73.895200">
+    <tag k="name" v="Sensore_Umidita_Mais_44_9"/></node>
+  <node id="1183" lat="40.676800" lon="-73.895000">
+    <tag k="name" v="Sensore_Umidita_Vite_44_10"/></node>
+  <node id="1184" lat="40.676800" lon="-73.894800">
+    <tag k="name" v="Sensore_Umidita_Mais_44_11"/></node>
+  <way id="2044">
+    <tag k="name" v="Dorsale_Settore_44"/>
+    <nd ref="501"/>
+    <nd ref="1172"/>
+    <nd ref="1173"/>
+    <nd ref="1174"/>
+    <nd ref="1175"/>
+    <nd ref="1176"/>
+    <nd ref="1177"/>
+    <nd ref="1178"/>
+    <nd ref="1179"/>
+    <nd ref="1180"/>
+    <nd ref="1181"/>
+    <nd ref="1182"/>
+    <nd ref="1183"/>
+    <nd ref="1184"/>
+  </way>
+</osm>
