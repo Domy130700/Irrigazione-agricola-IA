@@ -8,7 +8,7 @@ Installare SWI Prolog in base al sistema operativo in uso (**scaricare la versio
 
 Posizionarsi all'interno della root principale:
 
-`cd irrigazione-intelligente`
+`cd Irrigazione-agricola-IA-main`
 
 Creare l'ambiente virtuale (facoltativo):
 
