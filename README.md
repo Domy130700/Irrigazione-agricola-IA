@@ -26,8 +26,8 @@ Il programma, una volta avviato, chiede all'utente quale tipo di dati utilizzare
 
 - Caricare un file XML, opzione per caricare un file dal proprio dispositivo. Il file deve avere la struttura standard OSM (OpenStreetMap) XML per un utilizzo corretto del programma. In pratica, i dati presenti nel file dovranno rispettare un formato preciso, per essere elaborati correttamente dal programma.
 
-## Ottimizzazione globale (CSP)
-Una volta caricato il file, il programma chiederà se si desidera ottimizzare la distribuzione idrica in modo globale, per bilanciare la pressione ed evitare conflitti di erogazione tra i settori della zona in esame.
+## Ottimizzazione idrica
+Una volta caricato il file, il programma chiederà se si desidera ottimizzare la distribuzione idrica in modo generale, per bilanciare la pressione ed evitare conflitti di erogazione tra i settori della zona in esame.
 
 ## Opzioni principali
 Il menu verrà poi sostituito con le seguenti opzioni:
